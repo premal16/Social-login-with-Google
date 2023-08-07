@@ -1,0 +1,4 @@
+db.sqlite
+api/__pycache__
+api/migrations
+Google_login/__pycache__
